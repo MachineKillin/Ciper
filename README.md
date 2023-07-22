@@ -24,4 +24,4 @@ python ciper.py
 ![](https://media.discordapp.net/attachments/883003553726214195/1132109868988379206/image.png?width=1440&height=590)
 
 ## Usage
-you cannot sell ciper or any of its code. if you are interested in selling please contact me.
+you cannot sell ciper or any of its code. if you are interested in selling please contact me. i am not responsable for how you use this tool.
