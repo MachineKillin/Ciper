@@ -15,6 +15,7 @@ cd Ciper
 pip install -r requirements.txt
 python ciper.py
 ```
+### you must have chrome installed in order for selenium to work
 
 ## Pictures
 ![](https://media.discordapp.net/attachments/883003553726214195/1132109868988379206/image.png?width=1440&height=590)
