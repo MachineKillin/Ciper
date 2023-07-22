@@ -1,5 +1,6 @@
 # Ciper
 A google dork parser that bypasses captcha's automatically.
+### [exe download]( https://github.com/MachineKillin/Ciper/releases/download/v1/ciper.exe)
 
 ## Features
 - Slower speeds so it can parse more dorks without fast bans.
