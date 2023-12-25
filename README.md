@@ -1,7 +1,7 @@
 # Ciper
 A google dork parser that bypasses captcha's automatically.
 ### [exe download](https://github.com/MachineKillin/Ciper/releases/download/v1/ciper.exe)
-### [avine discord](https://discord.gg/PCYTj7MFSE)
+### [avine discord](https://discord.gg/bFUKufJp6X)
 ### [github discord](https://discord.com/invite/JcAvQc797r)
 ### in order for it to solve captchas you must have chrome installed.
 
